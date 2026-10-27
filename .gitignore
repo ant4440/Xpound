@@ -1,0 +1,10 @@
+node_modules/
+dist/
+target/
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.py[cod]
+desktop/src-tauri/target/
+desktop/src-tauri/gen/
